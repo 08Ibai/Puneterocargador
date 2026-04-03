@@ -6,6 +6,11 @@ This product is a 30W MagSafe charger easy to do and so cheaper, is compatible w
 
 I made it because a dont have one, and i touht it was beter learn freeCAD and do it by mi self.
 
+# How do you use it?
+
+You can use it for charger your phone
+
+
 # Features
 
 Its a 30W MagSafe charger,
