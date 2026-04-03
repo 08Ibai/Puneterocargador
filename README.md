@@ -27,8 +27,9 @@ Cheaper.
 
 # Mob
 
-[MOB.csv](https://github.com/user-attachments/files/26467799/MOB.csv)
-
+[MOB puneterocargador.csv](https://github.com/user-attachments/files/26467919/MOB.puneterocargador.csv)
+Part Name,Quantity,link,Unit price,Total + Shipping,Total + Shiping USD
+Apple Magsafe,1,https://es.aliexpress.com/item/1005008703569387.html?spm=a2g0o.detail.0.0.6520CJaFCJaFN9&mp=1&gatewayAdapt=glo2esp,"3,04€","3,04€","$3,5"
 
 
 #  Magazine page
