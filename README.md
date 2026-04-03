@@ -24,3 +24,7 @@ Cheaper.
 <img width="374" height="339" alt="3D model back part" src="https://github.com/user-attachments/assets/7557f4c5-4f9c-4539-88a4-57a5c1457c55" />
 
 <img width="704" height="767" alt="3D model with a example" src="https://github.com/user-attachments/assets/f5f7a488-00fd-4c44-ac43-26cdbe138b0b" />
+
+#  Magazine page
+
+<img width="1410" height="2000" alt="Puneterocargador presentation" src="https://github.com/user-attachments/assets/9253f330-6129-49b9-9d15-aa3feed47e8b" />
