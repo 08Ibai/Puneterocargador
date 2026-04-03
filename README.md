@@ -14,4 +14,6 @@ Cheaper
 
 # Images
 
-![3D model front part]([3D model front part.png](https://github.com/08Ibai/Puneterocargador/blob/main/images/3D%20model%20%20front%20part.png))
+<img width="669" height="568" alt="3D model  front part" src="https://github.com/user-attachments/assets/e6a44564-6fb4-4b20-969f-58d1bdeae979" />
+
+<img width="374" height="339" alt="3D model back part" src="https://github.com/user-attachments/assets/7557f4c5-4f9c-4539-88a4-57a5c1457c55" />
