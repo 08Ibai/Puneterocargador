@@ -8,8 +8,8 @@ I made it because a dont have one, and i touht it was beter learn freeCAD and do
 
 # Features
 
-Its a 30W MagSafe charger.
-Model in 3D.
+Its a 30W MagSafe charger,
+Model in 3D,
 Cheaper.
 
 # Images
