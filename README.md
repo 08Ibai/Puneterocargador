@@ -27,10 +27,8 @@ Cheaper.
 
 # Mob
 
-[Up,,,,,,,,,,,,
-Part Name,,Quantity,,Link,,,,Unit Price,,Total + Shipping,,Total + Shipping in USD
-,,,,,,,,,,,,
-Apple magsafe,,1,,https://es.aliexpress.com/item/1005008703569387.html?spm=a2g0o.detail.0.0.6520CJaFCJaFN9&mp=1&gatewayAdapt=glo2esp,,,,"3,04€",,"3,04€",,"$3,50"loading MOB.csv…]()
+[Uploading MOB.csv…]()
+
 
 
 #  Magazine page
