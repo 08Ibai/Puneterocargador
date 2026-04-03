@@ -22,3 +22,5 @@ Cheaper.
 <img width="669" height="568" alt="3D model  front part" src="https://github.com/user-attachments/assets/e6a44564-6fb4-4b20-969f-58d1bdeae979" />
 
 <img width="374" height="339" alt="3D model back part" src="https://github.com/user-attachments/assets/7557f4c5-4f9c-4539-88a4-57a5c1457c55" />
+
+<img width="704" height="767" alt="3D model with a example" src="https://github.com/user-attachments/assets/f5f7a488-00fd-4c44-ac43-26cdbe138b0b" />
