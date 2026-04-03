@@ -14,4 +14,4 @@ Cheaper
 
 # Images
 
-![3D model front part]([3D model front part.png](https://github.com/08Ibai/Puneterocargador/blob/main/3D%20model%20%20front%20part.png))
+![3D model front part]([3D model front part.png](https://github.com/08Ibai/Puneterocargador/blob/main/images/3D%20model%20%20front%20part.png))
